@@ -1,4 +1,3 @@
-
 /**
  * Joins a set of strings with a dash after stripping the strings of
  * a leading sub string.
