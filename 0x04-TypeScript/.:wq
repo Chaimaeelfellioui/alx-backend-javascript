@@ -1,0 +1,10 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v149)
+"   /alx-backend-javascript/0x04-TypeScript/task_1
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:exec
+" ============================================================================
+../
+./
+.swp
